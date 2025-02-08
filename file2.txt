@@ -2,3 +2,5 @@ This is my file 2
 Making first change
 
 add another marketing message section
+
+Add footer note
