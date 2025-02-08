@@ -1,1 +1,3 @@
 This is a file which is used to fix bugs
+
+Bug is fixed
