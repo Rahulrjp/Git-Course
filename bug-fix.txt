@@ -4,3 +4,5 @@ Bug is fixed
 
 
 One more bug is detected and fixed
+
+Fourth bug fixed
